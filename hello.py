@@ -1,4 +1,5 @@
 a = 3 
 b = 8
-print (a+b)
 adasd
+c = 5
+print (a+b)
